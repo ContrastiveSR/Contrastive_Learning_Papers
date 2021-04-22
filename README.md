@@ -8,6 +8,7 @@ A list of papers in contrastive learning.
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+| 2021 | [C2C-GenDA: Cluster-to-Cluster Generation for Data Augmentation of Slot Filling](https://arxiv.org/pdf/2012.07004.pdf) | AAAI  | [Code](https://github.com/Sanyuan-Chen/C2C-DA) |
 | 2020 | [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) | arxiv  | [Code]() |
 ## Graph
 
