@@ -15,4 +15,6 @@ A list of papers in contrastive learning.
 ## Graph
 
 ## Recommender System 
+| Year | Title                                                        | Venue | Code |
+| -----|------------------------------------------------------------- | ----- | ---- |
 | 2021 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | WWW  | [Code]() |
