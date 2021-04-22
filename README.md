@@ -1,5 +1,5 @@
 # Contrastive_Learning_Papers
-A list of contrastive Learning papers. 
+A list of papers in contrastive learning. 
 ## Computer Vision
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
