@@ -8,6 +8,7 @@ A list of papers in contrastive learning.
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+| 2021 | [A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection](https://arxiv.org/pdf/2009.09107.pdf) | AAAI  | [Code]() |
 | 2020 | [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) | arxiv  | [Code]() |
 ## Graph
 
