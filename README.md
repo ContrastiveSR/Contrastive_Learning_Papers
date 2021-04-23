@@ -13,7 +13,9 @@ A list of papers in contrastive learning.
 | 2021 | [Towards Effective Context for Meta-Reinforcement Learning: an Approach based on Contrastive Learning](https://arxiv.org/pdf/2009.13891.pdf) | AAAI  | [Code]() |
 | 2020 | [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) | arxiv  | [Code]() |
 ## Graph
-
+| Year | Title                                                        | Venue | Code |
+| -----|------------------------------------------------------------- | ----- | ---- |
+| 2020 | [Contrastive Self-supervised Learning for Graph Classification](https://arxiv.org/pdf/2009.05923.pdf) | arxiv  | [Code]() |
 ## Recommender System 
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
