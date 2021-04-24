@@ -35,4 +35,5 @@ A list of papers in contrastive learning.
 ## Recommender System 
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
-| 2021 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | WWW | [Code]() |
+|2021  | [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)| arxiv |  Code |
+| 2021 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | WWW | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
