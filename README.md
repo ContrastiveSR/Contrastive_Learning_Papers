@@ -46,6 +46,9 @@ A list of papers in contrastive learning.
 | 2019 | [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/pdf/1906.00910.pdf) |	arxiv | [Code](https://paperswithcode.com/paper/190600910#code) |
 | 2019 | [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://arxiv.org/pdf/1904.03436.pdf) |	CVPR | [Code](https://github.com/mangye16/Unsupervised_Embedding_Learning) |
 | 2019 | [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/pdf/1807.06653.pdf) | ICCV | [Code](https://github.com/xu-ji/IIC) |
+| 2019 | [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/pdf/1808.06670.pdf) | ICLR | [Code](https://github.com/rdevon/DIM) |
+| 2019 | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) | arxiv | [Code](https://paperswithcode.com/paper/representation-learning-with-contrastive#code) |
+| 2018 | [Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/pdf/1805.01978.pdf) | CVPR | [Code](https://github.com/zhirongw/lemniscate.pytorch) |
 
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
@@ -56,6 +59,7 @@ A list of papers in contrastive learning.
 | 2020 | [Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/pdf/2005.10389.pdf) | ACL | [Code](https://github.com/google-research/language) |
 | 2020 | [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/pdf/2005.12766.pdf) | arxiv | [Code]() |
 | 2019 | [A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/1902.09229.pdf) | arxiv | [Code]() |
+| 2019 | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) | arxiv | [Code](https://paperswithcode.com/paper/representation-learning-with-contrastive#code) |
 
 ## Graph
 | Year | Title                                                        | Venue | Code |
