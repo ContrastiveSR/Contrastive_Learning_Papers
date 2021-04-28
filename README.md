@@ -35,6 +35,18 @@ A list of papers in contrastive learning.
 | 2020 | [Supervised Contrastive Learning](https://arxiv.org/pdf/2004.11362v1.pdf) | arxiv | [Code](https://github.com/HobbitLong/SupContrast) |
 | 2020 | [Clustering based Contrastive Learning for Improving Face Representations](https://arxiv.org/pdf/2004.02195v1.pdf) | IEEE | [Code]() |
 | 2020 | [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/pdf/2003.04297v1.pdf) | arxiv | [Code](https://github.com/facebookresearch/moco) |
+| 2020 | [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/pdf/1911.05371.pdf) | ICLR | [Code](https://github.com/yukimasano/self-label) |
+| 2020 | [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf) | CVPR | [Code](https://github.com/facebookresearch/moco) |
+| 2020 | [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf) | CVPR/IEEE | [Code]() |
+| 2020 | [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/pdf/1905.09272.pdf) | arxiv | [Code](https://paperswithcode.com/paper/data-efficient-image-recognition-with#code) |
+| 2020 | [Contrastive Multiview Coding](https://arxiv.org/pdf/1906.05849.pdf) | arxiv | [Code](https://github.com/HobbitLong/CMC/) |
+| 2019 | [Transferable Contrastive Network for Generalized Zero-Shot Learning](https://arxiv.org/pdf/1908.05832v1.pdf) | ICCV | [Code](http://vipl.ict.ac.cn/resources/codes.) |
+| 2019 | [Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/pdf/1906.02940.pdf) | arxiv | [Code](https://paperswithcode.com/paper/selfie-self-supervised-pretraining-for-image#code) |
+| 2019 | [Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/pdf/1903.12355.pdf) |	arxiv | [Code](https://paperswithcode.com/paper/local-aggregation-for-unsupervised-learning#code) |
+| 2019 | [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/pdf/1906.00910.pdf) |	arxiv | [Code](https://paperswithcode.com/paper/190600910#code) |
+| 2019 | [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://arxiv.org/pdf/1904.03436.pdf) |	CVPR | [Code](https://github.com/mangye16/Unsupervised_Embedding_Learning) |
+| 2019 | [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/pdf/1807.06653.pdf) | ICCV | [Code](https://github.com/xu-ji/IIC) |
+
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
@@ -43,14 +55,17 @@ A list of papers in contrastive learning.
 | 2020 | [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) | arxiv | [Code]() |
 | 2020 | [Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/pdf/2005.10389.pdf) | ACL | [Code](https://github.com/google-research/language) |
 | 2020 | [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/pdf/2005.12766.pdf) | arxiv | [Code]() |
+| 2019 | [A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/1902.09229.pdf) | arxiv | [Code]() |
+
 ## Graph
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
 | 2020 | [Contrastive Self-supervised Learning for Graph Classification](https://arxiv.org/pdf/2009.05923.pdf) | arxiv | [Code]() |
 | 2020 | [GraphCL: Contrastive Self-Supervised Learning of Graph Representations](https://arxiv.org/pdf/2007.08025.pdf) | Neurips | [Code]() |
 | 2020 | [Deep Graph Contrastive Representation Learning](https://arxiv.org/pdf/2006.04131v1.pdf) | arxiv | [Code](https://github.com/CRIPAC-DIG/GRACE) |
+
 ## Recommender System 
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
-|2021  | [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)| arxiv |  Code |
+| 2021 | [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)| arxiv |  Code |
 | 2021 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | WWW | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
