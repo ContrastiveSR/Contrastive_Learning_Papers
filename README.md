@@ -49,6 +49,11 @@ A list of papers in contrastive learning.
 | 2019 | [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/pdf/1808.06670.pdf) | ICLR | [Code](https://github.com/rdevon/DIM) |
 | 2019 | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) | arxiv | [Code](https://paperswithcode.com/paper/representation-learning-with-contrastive#code) |
 | 2018 | [Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/pdf/1805.01978.pdf) | CVPR | [Code](https://github.com/zhirongw/lemniscate.pytorch) |
+| 2018 | [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/pdf/1704.06888.pdf) | arxiv | [Code](https://paperswithcode.com/paper/time-contrastive-networks-self-supervised#code) |
+| 2017 | [Multi-task Self-Supervised Visual Learning](https://arxiv.org/pdf/1708.07860.pdf) | ICCV | [Code]() |
+| 2016 | [Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/pdf/1603.09246.pdf) | ECCV | [Code](https://paperswithcode.com/paper/unsupervised-learning-of-visual-1#code) |
+| 2015 | [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/pdf/1406.6909.pdf) | arxiv | [Code](https://paperswithcode.com/paper/discriminative-unsupervised-feature-learning#code) |
+| 2010 | [Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) | AISTATS | [Code]() |
 
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
