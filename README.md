@@ -78,10 +78,9 @@ A list of papers in contrastive learning.
 | 2020 | [Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902.pdf ) | NeurIPS | [Code](https://github.com/Shen-Lab/GraphCL) |
 
 
-
-
 ## Recommender System 
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+| 2021 | [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf)| SIGIR |  Code |
 | 2021 | [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)| arxiv |  Code |
 | 2021 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | WWW | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
