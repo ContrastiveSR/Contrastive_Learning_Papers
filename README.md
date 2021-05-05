@@ -61,7 +61,6 @@ A list of papers in contrastive learning.
 | 2021 | [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/pdf/2102.08473.pdf) | arxiv | [Code](NAN) |
 | 2021 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | arxiv | [Code](https://github.com/princeton-nlp/SimCSE) |
 | 2021 | [A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection](https://arxiv.org/pdf/2009.09107.pdf) | AAAI | [Code]() |
-| 2021 | [Towards Effective Context for Meta-Reinforcement Learning: an Approach based on Contrastive Learning](https://arxiv.org/pdf/2009.13891.pdf) | AAAI | [Code]() |
 | 2020 | [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) | arxiv | [Code]() |
 | 2020 | [Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/pdf/2005.10389.pdf) | ACL | [Code](https://github.com/google-research/language) |
 | 2020 | [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/pdf/2005.12766.pdf) | arxiv | [Code]() |
@@ -87,3 +86,9 @@ A list of papers in contrastive learning.
 | 2021 | [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf)| SIGIR |  [Code](https://github.com/wujcan/SGL) |
 | 2021 | [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)| arxiv |  Code |
 | 2021 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | WWW | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
+
+## Others
+| Year | Title                                                        | Venue | Code |
+| -----|------------------------------------------------------------- | ----- | ---- |
+| 2021 | [Towards Effective Context for Meta-Reinforcement Learning: an Approach based on Contrastive Learning](https://arxiv.org/pdf/2009.13891.pdf) | AAAI | [Code]() |
+
