@@ -61,8 +61,9 @@ A list of papers in contrastive learning.
 | 2021 | [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/pdf/2102.08473.pdf) | arxiv | [Code](NAN) |
 | 2021 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | arxiv | [Code](https://github.com/princeton-nlp/SimCSE) |
 | 2021 | [A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection](https://arxiv.org/pdf/2009.09107.pdf) | AAAI | [Code]() |
-| 2020 | [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) | arxiv | [Code]() |
+| 2020 | [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) | arxiv | [Code](https://github.com/JohnGiorgi/DeCLUTR) |
 | 2020 | [Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/pdf/2005.10389.pdf) | ACL | [Code](https://github.com/google-research/language) |
+| 2020 | [CLEAR: Contrastive Learning for Sentence Representation](https://arxiv.org/pdf/2012.15466.pdf) | arxiv | [Code]() |
 | 2020 | [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/pdf/2005.12766.pdf) | arxiv | [Code]() |
 | 2019 | [A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/1902.09229.pdf) | arxiv | [Code]() |
 | 2019 | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) | arxiv | [Code](https://paperswithcode.com/paper/representation-learning-with-contrastive#code) |
