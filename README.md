@@ -75,6 +75,7 @@ A list of papers in contrastive learning.
 | 2021 | [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf) | SIGIR | [code](https://github.com/wujcan/SGL) |
 | 2021 | [Graph Contrastive Learning with Adaptive Augmentation](https://arxiv.org/pdf/2010.14945.pdf) | TheWeb | [code](https://github.com/CRIPAC-DIG/GCA) |
 | 2020 | [Contrastive Self-supervised Learning for Graph Classification](https://arxiv.org/pdf/2009.05923.pdf) | arxiv | [Code]() |
+| 2020 | [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://arxiv.org/pdf/2009.10273.pdf) | ICDM | [Code]() |
 | 2020 | [GraphCL: Contrastive Self-Supervised Learning of Graph Representations](https://arxiv.org/pdf/2007.08025.pdf) | Neurips | [Code]() |
 | 2020 | [Deep Graph Contrastive Representation Learning](https://arxiv.org/pdf/2006.04131v1.pdf) | arxiv | [Code](https://github.com/CRIPAC-DIG/GRACE) |
 | 2020 | [Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902.pdf ) | NeurIPS | [Code](https://github.com/Shen-Lab/GraphCL) |
