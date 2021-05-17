@@ -88,6 +88,7 @@ A list of papers in contrastive learning.
 | 2021 | [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf)| SIGIR |  [Code](https://github.com/wujcan/SGL) |
 | 2021 | [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)| arxiv |  Code |
 | 2021 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | WWW | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
+| 2020 | [Self-supervised Learning for Large-scale Item Recommendations](https://arxiv.org/pdf/2007.12865.pdf) | arxiv | [Code]() |
 
 ## Others
 | Year | Title                                                        | Venue | Code |
