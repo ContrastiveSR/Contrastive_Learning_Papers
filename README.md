@@ -79,6 +79,8 @@ A list of papers in contrastive learning.
 | 2020 | [GraphCL: Contrastive Self-Supervised Learning of Graph Representations](https://arxiv.org/pdf/2007.08025.pdf) | Neurips | [Code]() |
 | 2020 | [Deep Graph Contrastive Representation Learning](https://arxiv.org/pdf/2006.04131v1.pdf) | arxiv | [Code](https://github.com/CRIPAC-DIG/GRACE) |
 | 2020 | [Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902.pdf ) | NeurIPS | [Code](https://github.com/Shen-Lab/GraphCL) |
+| 2020 | [Gcc: Graph contrastive coding for graph neural network pre-training](https://dl.acm.org/doi/pdf/10.1145/3394486.3403168) | KDD | [Code](https://github.com/THUDM/GCC) |
+| 2019 | [Deep Graph Infomax](https://arxiv.org/pdf/1809.10341.pdf ) | ICLR | [Code](https://github.com/PetarV-/DGI) |
 
 
 ## Recommender System 
