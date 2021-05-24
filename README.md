@@ -3,7 +3,7 @@ A list of papers in contrastive learning.
 ## Computer Vision
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
-| 2021 | [Learning a Few-shot Embedding Model with Contrastive Learning](https://static.aminer.cn/upload/pdf/956/389/173/6020e0109e795e62379b0e0d_0.pdf) | AAAI | [Code](https://github.com/corwinliu9669/Learning-a-Fewshot-Embedding-Model-with-Contrastive-Learning) |
+| 2021 | [Learning a Few-shot Embedding Model with Contrastive Learning](https://static.aminer.cn/upload/pdf/956/389/173/6020e0109e795e62379b0e0d_0.pdf) | AAAI | [Code](https://github.com/corwinliu9669/Learning-a-Few-shot-Embedding-Model-with-Contrastive-Learning) |
 | 2021 | [Contrastive Learning with Stronger Augmentations](https://arxiv.org/pdf/2104.07713v1.pdf) | IEEE | [Code](https://github.com/maple-research-lab/CLSA) |
 | 2021 | [Dual Contrastive Learning for Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2104.07689v1.pdf) | NTIRE  | [Code](https://github.com/JunlinHan/DCLGAN) |
 | 2021 | [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/pdf/2011.13377.pdf) | CVPR | [Code](https://github.com/linusericsson/ssl-transfer) |
