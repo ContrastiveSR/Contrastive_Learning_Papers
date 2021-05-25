@@ -100,3 +100,5 @@ A list of papers in contrastive learning.
 | -----|------------------------------------------------------------- | ----- | ---- |
 | 2021 | [Towards Effective Context for Meta-Reinforcement Learning: an Approach based on Contrastive Learning](https://arxiv.org/pdf/2009.13891.pdf) | AAAI | code |
 
+### Future Plan
+Welcome to join us to expand this repo. In the future, we hope to make this list into finer categorizations. We know that in the computer vision and natural language processing area, there are already a lot of sub-areas are researching the contrastive learning. Therefore, it is important to create some sub-category to include those papers. Feel free to contact us if you are interested: jim96liu@gmail.com
