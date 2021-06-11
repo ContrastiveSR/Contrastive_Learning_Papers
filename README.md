@@ -61,6 +61,9 @@ A list of papers in contrastive learning.
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+|2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH) | ICLR | Code| 
+|2021 | [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w) | ICLR | Code| 
+|2021 | [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) | NAACL | [Code](https://github.com/yueyu1030/COSINE)| 
 | 2021 | [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/pdf/2102.08473.pdf) | arxiv | Code |
 | 2021 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | arxiv | [Code](https://github.com/princeton-nlp/SimCSE) |
 | 2021 | [A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection](https://arxiv.org/pdf/2009.09107.pdf) | AAAI | Code |
