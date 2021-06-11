@@ -4,6 +4,9 @@ A list of papers in contrastive learning.
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
 | 2021 | [Training GANs with Stronger Augmentations via Contrastive Discriminator](https://openreview.net/forum?id=eo6U4CAwVmg) | ICLR | [Code](https://github.com/jh-jeong/ContraD) |
+| 2021 | [Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning](https://arxiv.org/abs/2105.00957) | ICLR | [Code](https://github.com/twke18/SPML) |
+| 2021 | [Active Contrastive Learning of Audio-Visual Video Representations](https://arxiv.org/abs/2009.09805) | ICLR | Code|
+| 2021 | [Conditional Negative Sampling for Contrastive Learning of Visual Representations](https://openreview.net/forum?id=v8b3e5jN66j) | ICLR | Code |
 | 2021 | [Learning a Few-shot Embedding Model with Contrastive Learning](https://static.aminer.cn/upload/pdf/956/389/173/6020e0109e795e62379b0e0d_0.pdf) | AAAI | [Code](https://github.com/corwinliu9669/Learning-a-Few-shot-Embedding-Model-with-Contrastive-Learning) |
 | 2021 | [Contrastive Learning with Stronger Augmentations](https://arxiv.org/pdf/2104.07713v1.pdf) | IEEE | [Code](https://github.com/maple-research-lab/CLSA) |
 | 2021 | [Dual Contrastive Learning for Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2104.07689v1.pdf) | NTIRE  | [Code](https://github.com/JunlinHan/DCLGAN) |
@@ -61,6 +64,19 @@ A list of papers in contrastive learning.
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+|2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH) | ICLR | Code| 
+|2021 | [What Should Not Be Contrastive in Contrastive Learning](https://arxiv.org/abs/2008.05659) | ICLR | Code|
+|2021 | [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808) | ICLR | [Code](https://github.com/microsoft/ANCE)|
+|2021 | [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/abs/2012.07280) | ICLR | [Code](https://github.com/seanie12/CLAPS)|
+|2021 | [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/abs/2005.04966) | ICLR | [Code](https://github.com/salesforce/PCL)|
+|2021 | [Contrastive Learning with Hard Negative Samples](https://openreview.net/forum?id=CR1XOQ0UTh-) | ICLR | Code|
+|2021 | [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w) | ICLR | Code| 
+|2021 | [Self-Supervised Contrastive Learning for Efficient User Satisfaction Prediction in Conversational Agents](https://arxiv.org/abs/2010.11230) | NAACL | Code| 
+|2021 | [SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency](https://www.aclweb.org/anthology/2021.naacl-main.248/) | NAACL | Code| 
+|2021 | [Supporting Clustering with Contrastive Learning](https://arxiv.org/abs/2103.12953) | NAACL | Code| 
+|2021 | [Understanding Hard Negatives in Noise Contrastive Estimation](https://arxiv.org/abs/2104.06245) | NAACL | Code| 
+|2021 | [Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis](https://www.aclweb.org/anthology/2021.naacl-main.442.pdf) | NAACL | Code| 
+|2021 | [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) | NAACL | [Code](https://github.com/yueyu1030/COSINE)| 
 | 2021 | [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/pdf/2102.08473.pdf) | arxiv | Code |
 | 2021 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | arxiv | [Code](https://github.com/princeton-nlp/SimCSE) |
 | 2021 | [A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection](https://arxiv.org/pdf/2009.09107.pdf) | AAAI | Code |
