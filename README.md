@@ -63,6 +63,11 @@ A list of papers in contrastive learning.
 | -----|------------------------------------------------------------- | ----- | ---- |
 |2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH) | ICLR | Code| 
 |2021 | [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w) | ICLR | Code| 
+|2021 | [Self-Supervised Contrastive Learning for Efficient User Satisfaction Prediction in Conversational Agents](https://arxiv.org/abs/2010.11230) | NAACL | Code| 
+|2021 | [SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency](https://www.aclweb.org/anthology/2021.naacl-main.248/) | NAACL | Code| 
+|2021 | [Supporting Clustering with Contrastive Learning](https://arxiv.org/abs/2103.12953) | NAACL | Code| 
+|2021 | [Understanding Hard Negatives in Noise Contrastive Estimation](https://arxiv.org/abs/2104.06245) | NAACL | Code| 
+|2021 | [Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis](https://www.aclweb.org/anthology/2021.naacl-main.442.pdf) | NAACL | Code| 
 |2021 | [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) | NAACL | [Code](https://github.com/yueyu1030/COSINE)| 
 | 2021 | [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/pdf/2102.08473.pdf) | arxiv | Code |
 | 2021 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | arxiv | [Code](https://github.com/princeton-nlp/SimCSE) |
