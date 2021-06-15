@@ -112,6 +112,9 @@ A list of papers in contrastive learning.
 | 2021 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | WWW | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
 | 2020 | [Self-supervised Learning for Large-scale Item Recommendations](https://arxiv.org/pdf/2007.12865.pdf) | arxiv | code |
 
+## Survey
+| 2021 | [Self-supervised Learning: Generative or Contrastive](https://arxiv.org/pdf/2006.08218.pdf)| arxiv |  code |
+
 ## Others
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
