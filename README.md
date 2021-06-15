@@ -113,6 +113,8 @@ A list of papers in contrastive learning.
 | 2020 | [Self-supervised Learning for Large-scale Item Recommendations](https://arxiv.org/pdf/2007.12865.pdf) | arxiv | code |
 
 ## Survey
+| Year | Title                                                        | Venue | Code |
+| -----|------------------------------------------------------------- | ----- | ---- |
 | 2021 | [Self-supervised Learning: Generative or Contrastive](https://arxiv.org/pdf/2006.08218.pdf)| arxiv |  code |
 
 ## Others
