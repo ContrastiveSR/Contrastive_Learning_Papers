@@ -3,6 +3,7 @@ A list of papers in contrastive learning.
 ## Computer Vision
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+| 2021 | [SEED: Self-supervised Distillation For Visual Representation](https://openreview.net/forum?id=AHm3dbp7D1D) | ICLR | Code |
 | 2021 | [PROTOTYPICAL CONTRASTIVE LEARNING OF UNSUPERVISED REPRESENTATIONS](https://arxiv.org/abs/2005.04966) | ICLR | [Code](https://github.com/salesforce/PCL) |
 | 2021 | [Training GANs with Stronger Augmentations via Contrastive Discriminator](https://openreview.net/forum?id=eo6U4CAwVmg) | ICLR | [Code](https://github.com/jh-jeong/ContraD) |
 | 2021 | [Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning](https://arxiv.org/abs/2105.00957) | ICLR | [Code](https://github.com/twke18/SPML) |
