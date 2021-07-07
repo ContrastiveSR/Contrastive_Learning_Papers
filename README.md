@@ -11,6 +11,7 @@ A list of papers in contrastive learning.
 | 2021 | [Learning a Few-shot Embedding Model with Contrastive Learning](https://static.aminer.cn/upload/pdf/956/389/173/6020e0109e795e62379b0e0d_0.pdf) | AAAI | [Code](https://github.com/corwinliu9669/Learning-a-Few-shot-Embedding-Model-with-Contrastive-Learning) |
 | 2021 | [Contrastive Learning with Stronger Augmentations](https://arxiv.org/pdf/2104.07713v1.pdf) | IEEE | [Code](https://github.com/maple-research-lab/CLSA) |
 | 2021 | [Dual Contrastive Learning for Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2104.07689v1.pdf) | NTIRE  | [Code](https://github.com/JunlinHan/DCLGAN) |
+| 2021 | [With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2104.14548.pdf) | DeepMind | [code](https://github.com/lightly-ai/lightly) |
 | 2021 | [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/pdf/2011.13377.pdf) | CVPR | [Code](https://github.com/linusericsson/ssl-transfer) |
 | 2021 | [Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/pdf/2103.01988.pdf) | arxiv | [Code](https://github.com/facebookresearch/vissl) |
 | 2021 | [VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/pdf/2103.05905v2.pdf) | CVPR | [Code](https://github.com/tinapan-pt/VideoMoCo) |
