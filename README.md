@@ -67,7 +67,7 @@ A list of papers in contrastive learning.
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
-|2021 | [CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding](https://aclanthology.org/2021.acl-long.181.pdf) | ACL | Code |
+|2021 | [CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding](https://aclanthology.org/2021.acl-long.181.pdf) | ACL | [Code](https://github.com/kandorm/CLINE)|
 |2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH) | ICLR | Code| 
 |2021 | [What Should Not Be Contrastive in Contrastive Learning](https://arxiv.org/abs/2008.05659) | ICLR | Code|
 |2021 | [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808) | ICLR | [Code](https://github.com/microsoft/ANCE)|
