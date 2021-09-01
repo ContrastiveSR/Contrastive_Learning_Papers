@@ -67,6 +67,7 @@ A list of papers in contrastive learning.
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+|2021 | [CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding](https://aclanthology.org/2021.acl-long.181.pdf) | ACL | Code |
 |2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH) | ICLR | Code| 
 |2021 | [What Should Not Be Contrastive in Contrastive Learning](https://arxiv.org/abs/2008.05659) | ICLR | Code|
 |2021 | [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808) | ICLR | [Code](https://github.com/microsoft/ANCE)|
@@ -81,7 +82,7 @@ A list of papers in contrastive learning.
 |2021 | [Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis](https://www.aclweb.org/anthology/2021.naacl-main.442.pdf) | NAACL | Code| 
 |2021 | [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) | NAACL | [Code](https://github.com/yueyu1030/COSINE)| 
 | 2021 | [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/pdf/2102.08473.pdf) | arxiv | Code |
-| 2021 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | arxiv | [Code](https://github.com/princeton-nlp/SimCSE) |
+| 2021 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | EMNLP | [Code](https://github.com/princeton-nlp/SimCSE) |
 | 2021 | [A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection](https://arxiv.org/pdf/2009.09107.pdf) | AAAI | Code |
 | 2020 | [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555) | ICLR | [Code](https://github.com/google-research/electra) |
 | 2020 | [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) | arxiv | [Code](https://github.com/JohnGiorgi/DeCLUTR) |
