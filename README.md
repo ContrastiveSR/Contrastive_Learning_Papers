@@ -121,6 +121,7 @@ A list of papers in contrastive learning.
 ## Survey
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+| 2021 | [Graph Self-Supervised Learning: A Survey](https://arxiv.org/abs/2103.00111) | arxiv | code |
 | 2021 | [Self-supervised Learning: Generative or Contrastive](https://arxiv.org/pdf/2006.08218.pdf)| arxiv |  code |
 | 2021 | [Self-Supervised Learning of Graph Neural Networks: A Unified Review](https://arxiv.org/pdf/2102.10757.pdf)| arxiv |  code |
 
