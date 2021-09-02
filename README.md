@@ -112,6 +112,7 @@ A list of papers in contrastive learning.
 ## Recommender System 
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+| 2021 | [Contrastive Self-supervised Sequential Recommendation with Robust Augmentation](https://arxiv.org/abs/2108.06479) | arxiv | [code](https://github.com/YChen1993/CoSeRec) |
 | 2021 | [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](https://arxiv.org/abs/2005.12964)| SIGIR |  [Code](NAN) |
 | 2021 | [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf)| SIGIR |  [Code](https://github.com/wujcan/SGL) |
 | 2021 | [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)| arxiv |  Code |
@@ -122,6 +123,7 @@ A list of papers in contrastive learning.
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
 | 2021 | [Graph Self-Supervised Learning: A Survey](https://arxiv.org/abs/2103.00111) | arxiv | code |
+| 2021 | [Self-supervised on Graphs: Contrastive, Generative,or Predictive](https://arxiv.org/abs/2105.07342) | arxiv | code |
 | 2021 | [Self-supervised Learning: Generative or Contrastive](https://arxiv.org/pdf/2006.08218.pdf)| arxiv |  code |
 | 2021 | [Self-Supervised Learning of Graph Neural Networks: A Unified Review](https://arxiv.org/pdf/2102.10757.pdf)| arxiv |  code |
 
