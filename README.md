@@ -3,6 +3,7 @@ A list of papers in contrastive learning.
 ## Computer Vision
 | Year | Title                                                       | Venue | Code |
 | -----|-------------------------------------------------------------| ----- | ---- |
+| 2021 | [Detco: Unsupervised contrastive learning for object detection](https://arxiv.org/pdf/2102.04803) | arxiv | [Code](https://github.com/xieenze/DetCo) |
 | 2021 | [SEED: Self-supervised Distillation For Visual Representation](https://openreview.net/forum?id=AHm3dbp7D1D) | ICLR | Code |
 | 2021 | [PROTOTYPICAL CONTRASTIVE LEARNING OF UNSUPERVISED REPRESENTATIONS](https://arxiv.org/abs/2005.04966) | ICLR | [Code](https://github.com/salesforce/PCL) |
 | 2021 | [Training GANs with Stronger Augmentations via Contrastive Discriminator](https://openreview.net/forum?id=eo6U4CAwVmg) | ICLR | [Code](https://github.com/jh-jeong/ContraD) |
@@ -63,6 +64,8 @@ A list of papers in contrastive learning.
 | 2016 | [Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/pdf/1603.09246.pdf) | ECCV | [Code](https://paperswithcode.com/paper/unsupervised-learning-of-visual-1#code) |
 | 2015 | [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/pdf/1406.6909.pdf) | arxiv | [Code](https://paperswithcode.com/paper/discriminative-unsupervised-feature-learning#code) |
 | 2010 | [Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) | AISTATS | code |
+
+
 
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
