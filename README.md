@@ -70,6 +70,7 @@ A list of papers in contrastive learning.
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+|2021 | [Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning](https://arxiv.org/pdf/2109.06349v1.pdf) | EMNLP | Code|
 |2021 | [CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding](https://aclanthology.org/2021.acl-long.181.pdf) | ACL | [Code](https://github.com/kandorm/CLINE)|
 |2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH) | ICLR | Code| 
 |2021 | [What Should Not Be Contrastive in Contrastive Learning](https://arxiv.org/abs/2008.05659) | ICLR | Code|
