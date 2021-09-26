@@ -7,6 +7,7 @@ A list of papers in contrastive learning.
 | 2021 | [SEED: Self-supervised Distillation For Visual Representation](https://openreview.net/forum?id=AHm3dbp7D1D) | ICLR | Code |
 | 2021 | [PROTOTYPICAL CONTRASTIVE LEARNING OF UNSUPERVISED REPRESENTATIONS](https://arxiv.org/abs/2005.04966) | ICLR | [Code](https://github.com/salesforce/PCL) |
 | 2021 | [Training GANs with Stronger Augmentations via Contrastive Discriminator](https://openreview.net/forum?id=eo6U4CAwVmg) | ICLR | [Code](https://github.com/jh-jeong/ContraD) |
+| 2021 | [What Should Not Be Contrastive in Contrastive Learning](https://arxiv.org/abs/2008.05659) | ICLR | Code|
 | 2021 | [Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning](https://arxiv.org/abs/2105.00957) | ICLR | [Code](https://github.com/twke18/SPML) |
 | 2021 | [Active Contrastive Learning of Audio-Visual Video Representations](https://arxiv.org/abs/2009.09805) | ICLR | Code|
 | 2021 | [Conditional Negative Sampling for Contrastive Learning of Visual Representations](https://openreview.net/forum?id=v8b3e5jN66j) | ICLR | Code |
@@ -73,7 +74,6 @@ A list of papers in contrastive learning.
 |2021 | [Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning](https://arxiv.org/pdf/2109.06349v1.pdf) | EMNLP | Code|
 |2021 | [CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding](https://aclanthology.org/2021.acl-long.181.pdf) | ACL | [Code](https://github.com/kandorm/CLINE)|
 |2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH) | ICLR | Code| 
-|2021 | [What Should Not Be Contrastive in Contrastive Learning](https://arxiv.org/abs/2008.05659) | ICLR | Code|
 |2021 | [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808) | ICLR | [Code](https://github.com/microsoft/ANCE)|
 |2021 | [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/abs/2012.07280) | ICLR | [Code](https://github.com/seanie12/CLAPS)|
 |2021 | [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/abs/2005.04966) | ICLR | [Code](https://github.com/salesforce/PCL)|
