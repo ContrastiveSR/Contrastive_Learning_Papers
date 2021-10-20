@@ -116,6 +116,7 @@ A list of papers in contrastive learning.
 ## Recommender System 
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+| 2022 | [Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation](https://arxiv.org/pdf/2110.05730.pdf) | WSDM | code |
 | 2021 | [Contrastive Self-supervised Sequential Recommendation with Robust Augmentation](https://arxiv.org/abs/2108.06479) | arxiv | [code](https://github.com/YChen1993/CoSeRec) |
 | 2021 | [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](https://arxiv.org/abs/2005.12964)| SIGIR |  [Code](NAN) |
 | 2021 | [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf)| SIGIR |  [Code](https://github.com/wujcan/SGL) |
