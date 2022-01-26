@@ -99,7 +99,7 @@ A list of papers in contrastive learning.
 ## Graph
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
-| 2021 | [An Empirical Study of Graph Contrastive Learning](https://openreview.net/forum?id=fYxEnpY-__G) | Openreview | [code](https://github.com/GraphCL/PyGCL) |
+| 2021 | [An Empirical Study of Graph Contrastive Learning](https://arxiv.org/pdf/2109.01116.pdf) | arxiv | [code](https://github.com/GraphCL/PyGCL) |
 | 2021 | [Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning](https://arxiv.org/pdf/2105.09111.pdf) | KDD | [code](https://github.com/liun-online/HeCo) |
 | 2021 | [Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization](https://dl.acm.org/doi/abs/10.1145/3404835.3462928) | SIGIR | code |
 | 2021 | [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf) | SIGIR | [code](https://github.com/wujcan/SGL) |
